@@ -1,0 +1,16 @@
+{
+"projectId": "z8rby2",
+"baseUrl": "https://www.deepl.com/",
+"defaultCommandTimeout": 4000,
+"retries": {
+ "runMode":  0,
+ "openMode": 0
+},
+"scrollBehavior": "bottom",
+"testFiles": ["**/*.feature","**/*.js"],
+"viewportHeight": 660,
+"viewportWidth": 1000,
+"screenshotsFolder": "cypress/screenshots",
+"videosFolder": "cypress/videos",
+"downloadsFolder": "cypress/downloads"
+}
